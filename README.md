@@ -1,8 +1,12 @@
+## [Linkedin](https://www.linkedin.com/in/dereck-duran/)
+
 ## Hi, I'm Dereck
 
 I enjoy building **machine learning projects** and working on my **homelab for self-hosted AI**.
 
 I'm especially interested in ML infrastructure, deep learning, retrieval-augmented generation, and AI agents.
+
+Currently work with Big Data and Analytics @ Amazon
 
 ## Learning
 
@@ -37,10 +41,6 @@ I'm especially interested in ML infrastructure, deep learning, retrieval-augment
 - RAG systems
 - AI agents
 - Data engineering
-
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/dereck-duran/)
 
 
 <!--
