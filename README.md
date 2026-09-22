@@ -1,4 +1,4 @@
-## [Linkedin](https://www.linkedin.com/in/dereck-duran/)
+## [LinkedIn](https://www.linkedin.com/in/dereck-duran/)
 
 ## Hi, I'm Dereck
 
