@@ -8,6 +8,11 @@ I'm especially interested in ML infrastructure, deep learning, retrieval-augment
 
 Currently work with Big Data and Analytics @ Amazon
 
+## Currently Building
+- BiteSize - making cooking simple with voice AI and social features
+- Homelabbing a Forgejo instance
+
+
 ## Learning
 
 - Docker and ML infrastructure
